@@ -1,0 +1,76 @@
+/*EJ Bunao*/
+body {
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+    font: 16px Arial, sans-serif;
+}
+.structural {
+    margin: 10px;
+    padding: 10px;
+}
+h1 {
+    color: #44391a;
+    font-size: 24px;
+}
+h2 {
+    color: #1b1818;
+    font-size: 24px;  
+}
+main {
+    height: 70vh;
+}
+img {
+    border: 1px solid #281d1d;
+    width: 90%;
+    height: 80%;
+}
+figure {
+    background-color: #000000;
+    width: 45%;
+    height: 60%;
+    margin: auto;
+    padding: 10px;
+}
+#Dog1 {
+    float: left; 
+    background-color: #8c9ed0;
+
+    width: 45%;
+    height: 60%;
+    margin: auto;
+    padding: 10px;
+}
+
+#Dog2 {
+    float: right; 
+    background-color: #8c9ed0;
+    width: 45%;
+    height: 60%;
+    margin: auto;
+    padding: 10px;
+}
+section {
+    clear: both;
+}
+figcaption {
+    font-weight: bold; 
+    font-size: 14px; 
+    color: #ffeded; 
+    padding: 5px; 
+}
+a {
+    color: #3f2acb92; 
+    text-decoration: none; 
+}
+a:hover {
+    color: #FF5733; 
+}
+section ul {
+    list-style-type: square; 
+    line-height: 1.5; 
+}
+
+header, footer {
+    background-color:#444e6c 
+}
